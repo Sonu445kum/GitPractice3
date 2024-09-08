@@ -1,3 +1,5 @@
-git init -->
-git add . -->
-git commit -m "Initial commit"
+Hello i m Sonu Kumar.
+I am a student of class B.tech.
+I am interested in learning about the latest technologies and innovations in the field of computer science and engineering.
+ I am interested in learning about the latest technologies and innovations.
+ 
